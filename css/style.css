@@ -108,6 +108,13 @@ footer p {
   padding: 30px;
   flex-wrap: wrap;
 }
+
+.houses img:hover {
+  background: rgba(255, 255, 255, 1);
+  border-radius: 50%;
+  padding: 10px; /* Ajoutez du padding pour agrandir le cercle */
+}
+
 .houses > div {
   border-radius: 140px;
   width: 140px;
