@@ -143,6 +143,7 @@ footer p {
 .characters p {
   text-align: center;
   color: var(--Gold, #b99049);
+  font-weight: bold;
 }
 
 /* PAGE PERSO */
