@@ -112,6 +112,10 @@ footer p {
     display: none;
 }
 
+a{
+    text-decoration: none;
+    font-weight: bold;
+}
 .houses {
     display: flex;
     justify-content: space-around;
@@ -160,6 +164,10 @@ footer p {
     text-align: center;
     color: var(--Gold, #b99049);
     font-weight: bold;
+}
+
+.characters a {
+    text-decoration: none;
 }
 
 .gryffindor img {
