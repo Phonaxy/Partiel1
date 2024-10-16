@@ -140,6 +140,12 @@ a{
     height: 136px;
 }
 
+.houses img:hover {
+    background: rgba(255, 255, 255, 1);
+    border-radius: 50%;
+    padding: 10px; /* Ajoutez du padding pour agrandir le cercle */
+}
+
 .characters {
     display: flex;
     justify-content: space-around;
